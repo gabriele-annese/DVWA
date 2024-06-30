@@ -62,4 +62,11 @@ So i see url request with BurpSuite and i take it.
 
 I create this python script to bruteforce the login page and check if in the response return the **Username and/or password incorrect** phrase or not.
 
-![[ExploitBruteForce_Low.py]]
+## Results
+The credential founded to login are:
+
+| Username | Password |
+| -------- | -------- |
+| admin    | password |
+| Admin    | password |
+![[Credentials.png]]
