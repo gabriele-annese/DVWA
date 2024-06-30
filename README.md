@@ -1,2 +1,7 @@
 # Damn Vulnerable Web Application (DVWA)
-Im testing obsidian backup.
+
+DVWA is PHP/Mysql damn web application
+## Installation
+To install DVWA with docker run the following command 
+
+
